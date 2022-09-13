@@ -10,4 +10,4 @@
 
 [File location](templates/basics/responsive_navigation_bar.json)
 
-![Preview](static/responsive_navbar.gif)
+![Preview](/static/responsive_navbar.gif)
