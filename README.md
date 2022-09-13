@@ -4,7 +4,7 @@ Common requirements in frontend that are packaged in ready-to-use form.
 ## Existing Templates
 
 ### Navigation bar that has three columns
-[Location](templates/layout/three_col_navbar.json)
+[templates/layout/three_col_navbar.json](templates/layout/three_col_navbar.json)
 
 ![navbar](static/navbar.png)
 
