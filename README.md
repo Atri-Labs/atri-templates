@@ -1,12 +1,12 @@
 # Atri Templates
 Common requirements in frontend that are packaged in ready-to-use form. 
 
-## Existing Templates
+For example, responsive navigation bar with three columns is shown below. 
+[File location](templates/basics/responsive_navigation_bar.json)
 
-### Navigation bar that has three columns
-[templates/layout/three_col_navbar.json](templates/layout/three_col_navbar.json)
+![Preview](static/responsive_navbar.gif)
 
-![navbar](static/navbar.png)
+Find complete list and details of available templates [here](templates/README.md)
 
 ## How to use a template?
 
@@ -43,6 +43,6 @@ git remote add upstream https://github.com/Atri-Labs/atri-templates.git
 
 4. Add JSON file for a template in `basics` or `layout` folder or create a new folder. 
 
-5. Add the snapshot of the template in this Readme. 
+5. Add details the template in [Readme](templates/README.md). 
 
 6. Open a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with clear title and description.
