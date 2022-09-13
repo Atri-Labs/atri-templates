@@ -13,11 +13,11 @@ Find the complete list and details of available templates [here](templates/READM
 
 1. Copy contents of the JSON file from this repository. 
 
-For example, if you want to use `card` template in `atri-templates/templates/layout/card.json`, copy its contents by clicking on the `Copy raw contents` icon in GitHub. 
+For example, if you want to use `responsive_navigation_bar` template in `atri-templates/templates/basics/responsive_navigation_bar.json`, visit the link and copy its contents by clicking on the `Copy raw contents` icon in GitHub. 
 
 2. Create a new JSON file inside a corresponding folder (e.g. `basics`, `layout`, etc.) in `atri_templates` directory in your Atri app root directory. 
 
-Continuing with our example, create a `atri-templates/layout/card.json` and paste the contents of the file here. 
+Continuing with our example, create a `atri-templates/basics/responsive_navigation_bar.json` and paste the contents of the file here. 
 
 We will be releasing a CLI in our future versions to make this process easier. Stay tuned!
 
