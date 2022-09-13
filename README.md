@@ -2,11 +2,12 @@
 Common requirements in frontend that are packaged in ready-to-use form. 
 
 For example, responsive navigation bar with three columns is shown below. 
+
 [File location](templates/basics/responsive_navigation_bar.json)
 
 ![Preview](static/responsive_navbar.gif)
 
-Find complete list and details of available templates [here](templates/README.md)
+Find the complete list and details of available templates [here](templates/README.md).
 
 ## How to use a template?
 
