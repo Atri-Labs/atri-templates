@@ -47,3 +47,16 @@ git remote add upstream https://github.com/Atri-Labs/atri-templates.git
 5. Add details the template in [Readme](templates/README.md). 
 
 6. Open a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with clear title and description.
+
+## Resources
+📚 Read the [Docs](https://docs.atrilabs.com/)
+
+🧭 Follow Atri Labs on [LinkedIn](https://www.linkedin.com/company/atri-labs)
+
+💬 Join our [Slack community](https://join.slack.com/t/atricommunity/shared_invite/zt-1e756m1at-bZBxngvw7KWWO0riI4pc0w)
+
+❓ Share any [bugs](https://github.com/Atri-Labs/atrilabs-engine/issues) or ask any question in [Discussions](https://github.com/Atri-Labs/atrilabs-engine/discussions)
+
+🎥 Watch along on [YouTube](https://www.youtube.com/channel/UC1uR2Q5x_8olWS_Y4PdK1Bw)
+
+⭐️ Star [Atri framework](https://github.com/Atri-Labs/atrilabs-engine) if you find it helpful! 😎
